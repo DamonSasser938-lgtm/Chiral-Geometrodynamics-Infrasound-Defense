@@ -1,0 +1,69 @@
+CID-P UNIT CELL SPECIFICATION v1.0
+[span_14](start_span)Derived from Chiral Geometrodynamics[span_14](end_span)
+
+GEOMETRY_PROFILE:
+  [span_15](start_span)Type: "Hexagonal Reuleaux Triangle"[span_15](end_span)
+  [span_16](start_span)Packing_Strategy: "Honeycomb Tessellation"[span_16](end_span)
+  Note: "Maximizes capture area while maintaining structural rigidity."
+
+HELIX_PARAMETERS:
+  # The Torsional Transduction Engine
+  [span_17](start_span)Chiral_Bias_Beta: 0.03             Standard Grid Bias[span_17](end_span)
+  [span_18](start_span)Decay_Rate: 1.618 (Phi)            Golden Ratio Taper[span_18](end_span)
+  [span_19](start_span)Draft_Angle: 1.325 degrees         Plastic Constant (Rho) for Impedance Matching[span_19](end_span)
+
+LAYER_STACK:
+  # [span_20](start_span)The "Phase-Locking" Array[span_20](end_span)
+  [span_21](start_span)Layer_1: "Left-Hand Twist Helix"[span_21](end_span)
+  [span_22](start_span)Gap: "Banach-Tarski Mixing Void"[span_22](end_span)
+  [span_23](start_span)Layer_2: "Right-Hand Twist Helix"[span_23](end_span)
+
+PLENUM_CHAMBER:
+  [span_24](start_span)Type: "Toroidal XOR Logic Gate"[span_24](end_span)
+  [span_25](start_span)Function: "Phase-Conjugate Negation (Active-Passive Hybrid)"[span_25](end_span)
+  Intake_Angle: 109.5 degrees (Tetrahedral Lock)
+  [span_26](start_span)Termination: "Open Vent to Atmosphere"[span_26](end_span)
+
+MATERIAL_REQUIREMENTS:
+  Youngs_Modulus: "High (Non-Resonant < 20Hz)"
+  Recommended_Materials: "Concrete, High-Density Resin, Ceramic"
+  Wall_Structure: "100% Solid Infill (No hollow walls)"
+
+THEORETICAL_PERFORMANCE:
+  [span_27](start_span)Target_Freq: "Broadband Infrasound (0.1 Hz - 20 Hz)"[span_27](end_span)
+  [span_28](start_span)Mechanism: "Topological Heat Dissipation"[span_28](end span
+
+ CID-P UNIT CELL SPECIFICATION v1.0
+ [span_14](start_span)Derived from Chiral Geometrodynamics[span_14](end_span)
+
+GEOMETRY_PROFILE:
+  [span_15](start_span)Type: “Hexagonal Reuleaux Triangle”[span_15](end_span)
+  [span_16](start_span)Packing_Strategy: “Honeycomb Tessellation”[span_16](end_span)
+  Note: “Maximizes capture area while maintaining structural rigidity.”
+
+HELIX_PARAMETERS:
+  The Torsional Transduction Engine
+  [span_17](start_span)Chiral_Bias_Beta: 0.03            Standard Grid Bias[span_17](end_span)
+  [span_18](start_span)Decay_Rate: 1.618 (Phi)           Golden Ratio Taper[span_18](end_span)
+  [span_19](start_span)Draft_Angle: 1.325 degrees       # Plastic Constant (Rho) for Impedance Matching[span_19](end_span)
+
+LAYER_STACK:
+  [span_20](start_span)The “Phase-Locking” Array[span_20](end_span)
+  [span_21](start_span)Layer_1: “Left-Hand Twist Helix”[span_21](end_span)
+  [span_22](start_span)Gap: “Banach-Tarski Mixing Void”[span_22](end_span)
+  [span_23](start_span)Layer_2: “Right-Hand Twist Helix”[span_23](end_span)
+
+PLENUM_CHAMBER:
+  [span_24](start_span)Type: “Toroidal XOR Logic Gate”[span_24](end_span)
+  [span_25](start_span)Function: “Phase-Conjugate Negation (Active-Passive Hybrid)”[span_25](end_span)
+  Intake_Angle: 109.5 degrees (Tetrahedral Lock)
+  [span_26](start_span)Termination: “Open Vent to Atmosphere”[span_26](end_span)
+
+MATERIAL_REQUIREMENTS:
+  Youngs_Modulus: “High (Non-Resonant < 20Hz)”
+  Recommended_Materials: “Concrete, High-Density Resin, Ceramic”
+  Wall_Structure: “100% Solid Infill (No hollow walls)”
+
+THEORETICAL_PERFORMANCE:
+  [span_27](start_span)Target_Freq: “Broadband Infrasound (0.1 Hz – 20 Hz)”[span_27](end_span)
+  [span_28](start_span)Mechanism: “Topological Heat Dissipation”[span_28](end_span)
