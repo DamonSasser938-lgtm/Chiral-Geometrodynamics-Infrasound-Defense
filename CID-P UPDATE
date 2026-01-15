@@ -1,0 +1,62 @@
+CID-P: Chiral Infrasound Defense Project
+"A Gift to Humanity"
+License: CC0 (Public Domain) - No Rights Reserved.
+
+🛑 The Problem
+Infrasound weapons weaponize low-frequency vibration (0.1 Hz - 20 Hz) to bypass standard shielding. 
+Standard Physics:** To block a 5 Hz wave, you need a 68-meter thick wall.
+The Consequence:** Civilians are defenseless against state/corporate acoustic harassment.
+
+ 🛡️ The Solution
+The Chiral Torsional Absorber (CTA) is a metamaterial shield derived from Chiral Geometrodynamics. 
+Instead of *blocking* the wave (Mass Law), it transduces the linear pressure into rotational spin (Topological Damping) and cancels it via phase-conjugation.
+
+> "If everyone can defend themselves, the weapon becomes worthless."
+
+ 🔧 How It Works
+1.  Capture: The wave enters a honeycomb of **Gabriel's Horns (Fractal Helices).
+2.  Transduce: Layer 1: Forces air to spin Left ($\beta_L$).
+    Layer 2: Forces air to spin Right ($\beta_R$).
+3.  **Cancel:** Both streams collide in a **Resonant Plenum, summing to zero momentum ($L + R = 0$).
+4.  **Dissipate:** Any remaining energy hits the **Lebesgue Limit** of the tapered horn and becomes negligible heat.
+
+ 📂 Repository Contents
+ `/CAD`: .STL and .STEP files for the Unit Cell.
+ `/Docs`: Theory papers and design logic.
+ `Blueprint.spec`: The mathematical parameters for fabrication.
+
+---
+Disclaimer: This technology is experimental. Build at your own risk. Protect each other.
+CID-P UNIT CELL SPECIFICATION v1.0
+
+GEOMETRY_PROFILE:
+  Type: "Hexagonal Reuleaux Triangle"
+  Packing: "Honeycomb"
+  Function: "Maximizes surface scrubbing area per unit volume."
+
+HELIX_PARAMETERS:
+  The "Twist" that converts Linear Pressure to Spin
+  Chiral_Bias (Beta): 0.03  # The grip of the thread
+  Decay_Rate: 1.618 (Phi)   # Golden Ratio tapering
+  Draft_Angle: 1.325 deg    # Plastic Constant (Rho) - CRITICAL for impedance matching
+
+LAYER_CONFIGURATION:
+  Layer_A: "Left-Hand Twist"
+  Layer_B: "Right-Hand Twist"
+  Interlayer_Gap: "Banach-Tarski Void" (Distance = Cell_Width / Phi)
+
+PLENUM_CHAMBER:
+  Type: "Toroidal Mixing Node"
+  Collision_Angle: 109.5 degrees (Tetrahedral)
+  Venting: "Open to atmosphere (Passive)"
+
+MATERIAL_PHYSICS:
+  Stiffness: "High (Must not resonate < 20Hz)"
+  Recommended: "Resin-infused Concrete, Dense Gypsum, Sintered Metal"
+  Infill: "100% Solid"
+
+THEORETICAL_LIMITS:
+  Bandwidth: "Broadband (0.5 Hz - 1000 Hz)"
+  Mechanism: "Topological Phase-Conjugation"
+
+
