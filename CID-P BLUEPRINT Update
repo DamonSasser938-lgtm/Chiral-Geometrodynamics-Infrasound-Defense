@@ -7,13 +7,13 @@ GEOMETRY_PROFILE:
   Note: "Maximizes capture area while maintaining structural rigidity."
 
 HELIX_PARAMETERS:
-  # The Torsional Transduction Engine
+   The Torsional Transduction Engine
   [span_17](start_span)Chiral_Bias_Beta: 0.03             Standard Grid Bias[span_17](end_span)
   [span_18](start_span)Decay_Rate: 1.618 (Phi)            Golden Ratio Taper[span_18](end_span)
   [span_19](start_span)Draft_Angle: 1.325 degrees         Plastic Constant (Rho) for Impedance Matching[span_19](end_span)
 
 LAYER_STACK:
-  # [span_20](start_span)The "Phase-Locking" Array[span_20](end_span)
+  [span_20](start_span)The "Phase-Locking" Array[span_20](end_span)
   [span_21](start_span)Layer_1: "Left-Hand Twist Helix"[span_21](end_span)
   [span_22](start_span)Gap: "Banach-Tarski Mixing Void"[span_22](end_span)
   [span_23](start_span)Layer_2: "Right-Hand Twist Helix"[span_23](end_span)
@@ -45,7 +45,7 @@ HELIX_PARAMETERS:
   The Torsional Transduction Engine
   [span_17](start_span)Chiral_Bias_Beta: 0.03            Standard Grid Bias[span_17](end_span)
   [span_18](start_span)Decay_Rate: 1.618 (Phi)           Golden Ratio Taper[span_18](end_span)
-  [span_19](start_span)Draft_Angle: 1.325 degrees       # Plastic Constant (Rho) for Impedance Matching[span_19](end_span)
+  [span_19](start_span)Draft_Angle: 1.325 degrees        Plastic Constant (Rho) for Impedance Matching[span_19](end_span)
 
 LAYER_STACK:
   [span_20](start_span)The “Phase-Locking” Array[span_20](end_span)
