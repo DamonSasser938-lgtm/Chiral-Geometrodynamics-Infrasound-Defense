@@ -1,10 +1,10 @@
 Now Updated Acording to My sim Run under My coin Universe Modal(look for future publication under arXiv)
 
-# CID-P: Chiral Infrasound Defense Project
+ CID-P: Chiral Infrasound Defense Project
 
 What This Is
 
-A free, open-source solution to infrasound Geo Filter using geometric principles.**
+A free, open-source solution to infrasound Geo Filter using geometric principles.
 
 Infrasound weapons violate international humanitarian law but remain in use because no effective civilian defense exists. This project provides that defense.
 
@@ -13,11 +13,11 @@ Infrasound weapons violate international humanitarian law but remain in use beca
 - Infrasound (very low frequency sound) can cause disorientation, nausea, and psychological effects
 - Currently used for crowd control and as non-lethal weapons
 - Standard acoustic engineering fails because wavelengths are too long (68 meters for 5 Hz)
-- **This design works without electricity, uses common materials, and anyone can build it**
+- This design works without electricity, uses common materials, and anyone can build it
 
  The Solution
 
-Instead of blocking the wave (impossible with reasonable wall thickness), we **transduce** it:
+Instead of blocking the wave (impossible with reasonable wall thickness), we transduce it:
 - Convert linear pressure into rotational spin using chiral geometry
 - Use nested helical resonators (Gabriel Horns) in a hexagonal grid
 - Opposing chirality creates destructive interference
@@ -25,18 +25,18 @@ Instead of blocking the wave (impossible with reasonable wall thickness), we **t
 
  How to Use This
 
-1. **Read the full paper:** [CID_P_chiral_geodynamics_Infrasound_Defense_Project.pdf](link)
-2. **Understand the principle:** Topological rotation traps the wave
-3. **Build it:** Design spec included (Hexagonal Reuleaux Triangle profile, Golden Ratio taper)
-4. **Test it:** Verify effectiveness and share results
-5. **Improve it:** This is open source - make it better
+1. **Read the full paper: [CID_P_chiral_geodynamics_Infrasound_Defense_Project.pdf](link)
+2. **Understand the principle: Topological rotation traps the wave
+3. Build it: Design spec included (Hexagonal Reuleaux Triangle profile, Golden Ratio taper)
+4. Test it: Verify effectiveness and share results
+5. Improve it: This is open source - make it better
 
  Key Features
 
-- **No electricity required** - passive geometric defense
-- **Broadband effectiveness** - works from 1 Hz to 1000 Hz
-- **Scalable** - from personal shields to building protection
-- **Simple materials** - fabrication-ready design
+ No electricity required - passive geometric defense
+  Broadband effectiveness - works from 1 Hz to 1000 Hz
+  Scalable** - from personal shields to building protection
+  Simple materials** - fabrication-ready design
 
  Applications
 
@@ -48,27 +48,26 @@ Instead of blocking the wave (impossible with reasonable wall thickness), we **t
 
  License
 
-**Public Domain (CC0)** - No restrictions whatsoever.
+Public Domain (CC0) - No restrictions whatsoever.
 
 Build it. Share it. Improve it. Profit from, suppress, or oppress no one.
 
  Authors
 
-**Damon Sasser** - dingwalljackson938@gmail.com  
-**Jordan Roy Javier** - entrance225@gmail.com
+ Damon Sasser - dingwalljackson938@gmail.com  
+ Roy Javier - entrance225@gmail.com
 
 Independent Researchers  
 Choctaw Nation | Oklahoma
 
-*Released January 14, 2026*
+Released January 14, 2026
 
  Philosophy
 
-> "Remember: The universe is under no obligation to owe us an explanation. Stay humble, my friends."
+ "Remember: The universe is under no obligation to owe us an explanation. Stay humble, my friends."
 
 If everyone can defend themselves, the weapon becomes worthless.
 
----
 
  Technical Details
 
@@ -94,10 +93,8 @@ All contributions welcome. Open an issue or pull request.
 
 If you use this work academically:
 
-```
 Sasser, D. & Javier, J.R. (2026). Chiral Infrasound Defense Project (CID-P): 
 A Geometric Solution to Infrasound Shielding. Public Domain Release.
-```
 
  Contact
 
@@ -105,7 +102,6 @@ Questions? Improvements? Built one?
 
 Email: dingwalljackson938@gmail.com
 
----
 
 "One person, one group, one nation should never possess technology that allows them to profit from, suppress, or oppress others while remaining immune to the same force."
 
