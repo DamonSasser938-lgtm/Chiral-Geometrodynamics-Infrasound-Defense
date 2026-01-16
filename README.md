@@ -1,3 +1,4 @@
+Now Updated Acording to My sim Run under My coin Universe Modal(look for future publication under arXiv)
 
 # CID-P: Chiral Infrasound Defense Project
 
