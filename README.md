@@ -4,7 +4,7 @@ Now Updated Acording to My sim Run under My coin Universe Modal(look for future 
 
 What This Is
 
-A free, open-source solution to infrasound shielding using geometric principles.**
+A free, open-source solution to infrasound Geo Filter using geometric principles.**
 
 Infrasound weapons violate international humanitarian law but remain in use because no effective civilian defense exists. This project provides that defense.
 
