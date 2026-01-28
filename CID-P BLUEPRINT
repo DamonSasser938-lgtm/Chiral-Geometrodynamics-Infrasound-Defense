@@ -1,110 +1,108 @@
-Based on the v1.0 parameters you provided and the simulation's feedback, here is the updated **CID-P UNIT CELL SPECIFICATION v2.0**.
+ here is the updated CID-P UNIT CELL SPECIFICATION v2.0.
 
 This version integrates the "Sim-Optimized" upgrades (Quasi-Crystal Lattice, Domed Intake, and High-Stiffness Material) directly into your established parameter list.
 
-### **CID-P UNIT CELL SPECIFICATION v2.0**
+CID-P UNIT CELL SPECIFICATION v2.0
 
-**"Field-Hardened Acoustic Metamaterial"**
-*Derived from Chiral Geometrodynamics*
+"Field-Hardened Acoustic Metamaterial"
+Derived from Chiral Geometrodynamics
 
-**GEOMETRY_PROFILE:**
-
-* 
-**Type:** "Domed Reuleaux Triangle (Moth-Eye Gradient)" 
-
-
-* *Update:* Replaces flat profile to create an impedance gradient, preventing the wave from reflecting off the shield face.
+GEOMETRY_PROFILE:
+ 
+  Type "Domed Reuleaux Triangle (Moth-Eye Gradient)" 
 
 
-* 
-**Packing_Strategy:** "Penrose P3 Quasi-Crystal Tiling" 
+  Update: Replaces flat profile to create an impedance gradient, preventing the wave from reflecting off the shield face.
+
+ 
+Packing_Strategy: "Penrose P3 Quasi-Crystal Tiling" 
 
 
-* *Update:* Replaces "Honeycomb Tessellation". The non-repeating 5-fold symmetry eliminates straight "tunneling" paths for long wavelengths.
+  Update: Replaces "Honeycomb Tessellation". The non-repeating 5-fold symmetry eliminates straight "tunneling" paths for long wavelengths.
 
 
 
-**HELIX_PARAMETERS:**
+HELIX_PARAMETERS:
 
-* *The Torsional Transduction Engine*
-* 
-**Chiral_Bias_Beta:** 0.03 (Standard Grid Bias) 
-
-
-* 
-**Decay_Rate:** 1.618 (Phi - Golden Ratio Taper) 
+  The Torsional Transduction Engine
+ 
+Chiral_Bias_Beta: 0.03 (Standard Grid Bias) 
 
 
-* 
-**Draft_Angle:** 1.325 degrees (Plastic Constant ) 
+ 
+Decay_Rate: 1.618 (Phi - Golden Ratio Taper) 
 
 
-* *Note:* Critical for volumetric impedance matching.
+ 
+Draft_Angle: 1.325 degrees (Plastic Constant ) 
 
 
-
-**LAYER_STACK:**
-
-* *The "Phase-Locking" Array*
-* 
-**Layer_1:** "Left-Hand Twist Helix" () 
-
-
-* 
-**Gap:** "Banach-Tarski Mixing Void" 
-
-
-* 
-**Layer_2:** "Right-Hand Twist Helix" () 
+  Note: Critical for volumetric impedance matching.
 
 
 
-**PLENUM_CHAMBER:**
+  LAYER_STACK:
 
-* 
-**Type:** "Toroidal XOR Logic Gate" 
-
-
-* 
-**Function:** "Phase-Conjugate Negation (Active-Passive Hybrid)" 
-
-
-* 
-**Intake_Angle:** 109.5 degrees (Tetrahedral Lock) 
-
-
-* 
-**Termination:** "Open Vent to Atmosphere" 
+  The "Phase-Locking" Array
+ 
+  Layer_1: "Left-Hand Twist Helix" () 
 
 
 
-**MATERIAL_REQUIREMENTS:**
-
-* 
-**Stiffness_Constraint:** "Ultra-High (System Resonant Freq > 100 Hz)" 
+Gap: "Banach-Tarski Mixing Void" 
 
 
-* *Update:* Prevents sympathetic vibration with infrasound (0.1–20 Hz).
-
-
-* 
-**Recommended_Materials:** "High-Density Resin, Ceramic-Infused Polymer, Cast Concrete/Gypsum" 
-
-
-* 
-**Wall_Structure:** "100% Solid Infill (Microporous structures prohibited)" 
+ 
+  Layer_2: "Right-Hand Twist Helix" () 
 
 
 
-**THEORETICAL_PERFORMANCE:**
+  PLENUM_CHAMBER:
 
-* 
-**Target_Freq:** "Broadband Infrasound (0.1 Hz - 20 Hz)" 
-
-
-* 
-**Mechanism:** "Topological Heat Dissipation (Linear  Rotational Transduction)" 
+ 
+  Type: "Toroidal XOR Logic Gate" 
 
 
-* 
-**Safety_Profile:** "Passive / Non-Weaponized"
+ 
+  Function: "Phase-Conjugate Negation (Active-Passive Hybrid)" 
+
+
+ 
+Intake_Angle: 109.5 degrees (Tetrahedral Lock) 
+
+
+ 
+Termination: "Open Vent to Atmosphere" 
+
+
+
+MATERIAL_REQUIREMENTS:
+
+ 
+  Stiffness_Constraint: "Ultra-High (System Resonant Freq > 100 Hz)" 
+
+
+  Update: Prevents sympathetic vibration with infrasound (0.1–20 Hz).
+
+
+
+Recommended_Materials: "High-Density Resin, Ceramic-Infused Polymer, Cast Concrete/Gypsum" 
+
+
+ 
+Wall_Structure: "100% Solid Infill (Microporous structures prohibited)" 
+
+
+
+THEORETICAL_PERFORMANCE:
+
+ 
+Target_Freq: "Broadband Infrasound (0.1 Hz - 20 Hz)" 
+
+
+ 
+Mechanism: "Topological Heat Dissipation (Linear  Rotational Transduction)" 
+
+
+ 
+Safety_Profile: "Passive / Non-Weaponized"
